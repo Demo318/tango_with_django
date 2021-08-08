@@ -1,3 +1,5 @@
 Django==2.1.5
 Pillow==5.4.1
 pytz==2021.1
+
+sudo -H python3 -m pip install https://github.com/radarhere/Pillow/archive/zlib.zip
