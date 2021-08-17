@@ -30,7 +30,7 @@ def populate():
      'views': 21},
      {'title':'Django Rocks',
      'url':'http://wwww.djangorocks.com/',
-     'views': 51},
+     'views': 2},
      {'title':'How to Tango with Django',
      'url':'http://www.tangowithdjango.com/',
      'views':12},
